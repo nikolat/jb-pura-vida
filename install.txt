@@ -1,0 +1,5 @@
+Charset,UTF-8
+type,shell
+name,純粋人生
+directory,pura-vida
+accept,雀卓
